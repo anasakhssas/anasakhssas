@@ -24,20 +24,50 @@
 
 ## 🧑‍💻 À propos de moi
 
-```yaml
-nom: Anas Akhssas
-localisation: Tahla, Maroc 🇲🇦
-formation:  ENSAM - École Nationale Supérieure d'Arts et Métiers
-spécialisation: Data Science & Intelligence Artificielle
-statut: Étudiant passionné
-centres_intérêt: 
-  - Machine Learning & Deep Learning
-  - Data Engineering & ETL Pipelines
-  - Natural Language Processing (NLP)
-  - MLOps & DevOps
-  - Développement Full-Stack
-objectif:  Transformer les données en solutions intelligentes qui ont un impact réel
-```
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍🎓 Qui suis-je ?
+
+Étudiant passionné en **Data Science & Intelligence Artificielle** à l'**ENSAM - École Nationale Supérieure d'Arts et Métiers**, basé à **Tahla, Maroc** 🇲🇦.
+
+Je transforme les données en solutions intelligentes qui ont un impact réel, en combinant expertise technique et créativité.
+
+### 💡 Ma philosophie
+
+> *"Les données racontent des histoires, l'IA les transforme en solutions."*
+
+Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par la technologie.
+
+</td>
+<td width="50%">
+
+### 🎯 Domaines d'expertise
+
+- 🤖 **Machine Learning & Deep Learning**
+  - Modèles prédictifs et classificateurs
+  - Réseaux de neurones profonds
+  
+- 📊 **Data Engineering & ETL**
+  - Pipelines de données automatisés
+  - Traitement de données à grande échelle
+  
+- 💬 **Natural Language Processing**
+  - Chatbots intelligents
+  - Analyse de texte et sentiments
+  
+- 🔧 **MLOps & DevOps**
+  - Déploiement de modèles ML
+  - CI/CD et containerisation
+  
+- 🌐 **Full-Stack Development**
+  - Applications web interactives
+  - APIs RESTful
+
+</td>
+</tr>
+</table>
 
 ---
 
