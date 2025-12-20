@@ -11,7 +11,7 @@
 <!-- Badges réseaux sociaux -->
 <p>
   <a href="https://www.linkedin.com/in/anas-akhssas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:anasakhssas1@gmail. com"><img src="https://img.shields.io/badge/Email-D14836? style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:anasakhssas1@gmail. com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/anasakhssas"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -36,7 +36,7 @@ centres_intérêt:
   - Natural Language Processing (NLP)
   - MLOps & DevOps
   - Développement Full-Stack
-objectif: Transformer les données en solutions intelligentes qui ont un impact réel
+objectif:  Transformer les données en solutions intelligentes qui ont un impact réel
 ```
 
 ---
@@ -49,26 +49,46 @@ objectif: Transformer les données en solutions intelligentes qui ont un impact 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 📊 Data Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 🌐 Développement Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26? style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 🗄️ Bases de données & Data Engineering
+### 🗄️ Bases de données & Big Data
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+### ☁️ Cloud & MLOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### ⚙️ DevOps & Outils
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF? style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC? style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
@@ -78,7 +98,7 @@ objectif: Transformer les données en solutions intelligentes qui ont un impact 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=anasakhssas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasakhssas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/?username=anasakhssas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -105,7 +125,7 @@ objectif: Transformer les données en solutions intelligentes qui ont un impact 
 
 <div align="center">
 
-[![devops_etl](https://github-readme-stats. vercel.app/api/pin/?username=anasakhssas&repo=devops_etl&theme=tokyonight&hide_border=true)](https://github.com/anasakhssas/devops_etl)
+[![devops_etl](https://github-readme-stats.vercel.app/api/pin/?username=anasakhssas&repo=devops_etl&theme=tokyonight&hide_border=true)](https://github.com/anasakhssas/devops_etl)
 
 </div>
 
@@ -128,7 +148,7 @@ objectif: Transformer les données en solutions intelligentes qui ont un impact 
 ## 💬 Citation du jour
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api? type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme. vercel.app/api? type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -139,7 +159,7 @@ objectif: Transformer les données en solutions intelligentes qui ont un impact 
 
 Je suis toujours ouvert à de nouvelles opportunités, projets innovants et collaborations en **Data Science**, **IA** et **Développement**. 
 
-**💡 Un projet Data/AI ?  Un stage ? Une idée à explorer ?  Discutons ! **
+**💡 Un projet Data/AI ?  Un stage ? Une idée à explorer ? Discutons ! **
 
 <a href="https://www.linkedin.com/in/anas-akhssas/">
   <img src="https://img.shields.io/badge/Connectons_nous_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
