@@ -176,14 +176,6 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 
 ---
 
-## 💬 Citation du jour
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
 ## 🤝 Collaborons ! 
 
 <div align="center">
