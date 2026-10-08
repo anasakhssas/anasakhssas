@@ -135,12 +135,12 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasakhssas&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=anasakhssas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <!-- Graphique d'activité -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasakhssas&theme=tokyo-night&hide_border=true&cache_seconds=1800" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasakhssas&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" alt="Activity Graph"/>
 </div>
 
 ---
@@ -158,12 +158,14 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 <div align="center">
 
 [![devops_etl](https://github-readme-stats.vercel.app/api/pin/?username=anasakhssas&repo=devops_etl&theme=tokyonight&hide_border=true)](https://github.com/anasakhssas/devops_etl)
+[![local-rag-cli](https://github-readme-stats.vercel.app/api/pin/?username=anasakhssas&repo=local-rag-cli&theme=tokyonight&hide_border=true)](https://github.com/anasakhssas/local-rag-cli)
 
 </div>
 
 | Projet | Description | Technologies | Lien |
 |--------|-------------|--------------|------|
 | 🔄 **devops_etl** | Pipeline ETL automatisé avec pratiques DevOps pour le traitement et la transformation des données | Python, Docker, ETL | [Voir →](https://github.com/anasakhssas/devops_etl) |
+| 🧠 **local-rag-cli** | Assistant RAG local en ligne de commande pour interroger des documents avec des LLMs | Python, RAG, CLI | [Voir →](https://github.com/anasakhssas/local-rag-cli) |
 | 🤖 **ENSAMBot** | Chatbot intelligent pour l'ENSAM utilisant le NLP et l'IA conversationnelle | Python, TypeScript, JavaScript, NLP | *Privé* |
 
 ---
