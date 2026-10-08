@@ -130,17 +130,17 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasakhssas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasakhssas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasakhssas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasakhssas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasakhssas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasakhssas&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
 </div>
 
 <!-- Graphique d'activité -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasakhssas&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasakhssas&theme=tokyo-night&hide_border=true&cache_seconds=1800" alt="Activity Graph"/>
 </div>
 
 ---
@@ -148,7 +148,7 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 ## 🏆 Trophées GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasakhssas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anasakhssas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&cache_seconds=1800"/>
 </div>
 
 ---
