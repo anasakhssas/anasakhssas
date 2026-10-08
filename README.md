@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Data+Science+%26+AI+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=AI%2FData+Engineer+%F0%9F%9A%80;Data+Engineering+%26+MLOps+en+production+%E2%9A%99%EF%B8%8F;Machine+Learning+%2B+NLP%2FRAG+appliqu%C3%A9s+%F0%9F%A7%A0;APIs+scalables%2C+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <!-- Badges réseaux sociaux -->
@@ -28,17 +28,17 @@
 <tr>
 <td width="50%">
 
-### 👨‍🎓 Qui suis-je ?
+### 👨‍💼 AI/Data Engineer
 
-Étudiant passionné en **Data Science & Intelligence Artificielle** à l'**ENSAM - École Nationale Supérieure d'Arts et Métiers**, basé à **Tahla, Maroc** 🇲🇦.
+Je conçois et déploie des solutions **Data & IA** fiables, scalables et orientées impact, basé à **Tahla, Maroc** 🇲🇦.
 
-Je transforme les données en solutions intelligentes qui ont un impact réel, en combinant expertise technique et créativité.
+De l'ingestion de données au déploiement de modèles et d'APIs, je construis des systèmes exploitables en production avec un haut niveau de qualité technique.
 
 ### 💡 Ma philosophie
 
 > *"Les données racontent des histoires, l'IA les transforme en solutions."*
 
-Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par la technologie.
+Je privilégie une approche pragmatique : architecture solide, automatisation, observabilité et amélioration continue.
 
 </td>
 <td width="50%">
@@ -46,24 +46,24 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 ### 🎯 Domaines d'expertise
 
 - 🤖 **Machine Learning & Deep Learning**
-  - Modèles prédictifs et classificateurs
-  - Réseaux de neurones profonds
+  - Entraînement, évaluation et industrialisation de modèles
+  - Architectures orientées performance et robustesse
   
 - 📊 **Data Engineering & ETL**
-  - Pipelines de données automatisés
-  - Traitement de données à grande échelle
+  - Pipelines de données automatisés et prêts pour la production
+  - Traitement et orchestration de flux de données à grande échelle
   
 - 💬 **Natural Language Processing**
-  - Chatbots intelligents
-  - Analyse de texte et sentiments
+  - Systèmes RAG et assistants conversationnels
+  - Analyse de texte et extraction d'information
   
 - 🔧 **MLOps & DevOps**
-  - Déploiement de modèles ML
-  - CI/CD et containerisation
+  - Déploiement de modèles et d'APIs
+  - CI/CD, observabilité et containerisation
   
 - 🌐 **Full-Stack Development**
-  - Applications web interactives
-  - APIs RESTful
+  - Applications orientées produit data/IA
+  - APIs RESTful et intégrations backend
 
 </td>
 </tr>
@@ -172,10 +172,10 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 
 ## 📈 Ce sur quoi je travaille actuellement
 
-- 🔭 Développement de pipelines **ETL** avec une approche **DevOps**
-- 🤖 Création de **chatbots intelligents** avec des techniques de **NLP**
-- 📚 Approfondissement en **Machine Learning** et **Deep Learning**
-- 🐳 Containerisation d'applications avec **Docker**
+- 🔭 Conception de pipelines **ETL/Data** robustes et prêts pour la production
+- 🤖 Déploiement de services **ML/NLP** et de systèmes **RAG** via APIs
+- 📈 Renforcement de l'**observabilité** et de la fiabilité des workflows data/IA
+- 🐳 Industrialisation par **containerisation** et bonnes pratiques **DevOps**
 
 ---
 
@@ -183,9 +183,9 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 
 <div align="center">
 
-Je suis toujours ouvert à de nouvelles opportunités, projets innovants et collaborations en **Data Science**, **IA** et **Développement**. 
+Je suis ouvert aux collaborations sur des produits et plateformes **Data/AI** : pipelines, APIs intelligentes, systèmes NLP/RAG et déploiements cloud. 
 
-**💡 Un projet Data/AI ?  Un stage ? Une idée à explorer ? Discutons !**
+**💡 Un projet Data/AI à construire ou accélérer ? Discutons !**
 
 <a href="https://www.linkedin.com/in/anas-akhssas/">
   <img src="https://img.shields.io/badge/Connectons_nous_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
