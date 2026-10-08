@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Data+Science+%26+AI+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Data+Science+%26+AI+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Solutions+%F0%9F%9A%80;Always+Learning%2C+Always+Growing+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <!-- Badges réseaux sociaux -->
@@ -183,7 +183,7 @@ Je crois fermement au pouvoir de l'apprentissage continu et à l'innovation par 
 
 Je suis toujours ouvert à de nouvelles opportunités, projets innovants et collaborations en **Data Science**, **IA** et **Développement**. 
 
-**💡 Un projet Data/AI ?  Un stage ? Une idée à explorer ? Discutons ! **
+**💡 Un projet Data/AI ?  Un stage ? Une idée à explorer ? Discutons !**
 
 <a href="https://www.linkedin.com/in/anas-akhssas/">
   <img src="https://img.shields.io/badge/Connectons_nous_sur_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -202,6 +202,6 @@ Je suis toujours ouvert à de nouvelles opportunités, projets innovants et coll
 <!-- Footer animé -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
-**⭐ N'hésite pas à explorer mes repos et à mettre une étoile si tu trouves quelque chose d'utile ! **
+**⭐ N'hésite pas à explorer mes repos et à mettre une étoile si tu trouves quelque chose d'utile !**
 
 </div>
