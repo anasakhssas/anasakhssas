@@ -145,23 +145,6 @@ Je privilégie une approche pragmatique : architecture solide, automatisation, o
 
 ---
 
-## 🏆 Trophées GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anasakhssas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&cache_seconds=1800"/>
-</div>
-
----
-
-## 📈 Ce sur quoi je travaille actuellement
-
-- 🔭 Conception de pipelines **ETL/Data** robustes et prêts pour la production
-- 🤖 Déploiement de services **ML/NLP** et de systèmes **RAG** via APIs
-- 📈 Renforcement de l'**observabilité** et de la fiabilité des workflows data/IA
-- 🐳 Industrialisation par **containerisation** et bonnes pratiques **DevOps**
-
----
-
 ## 🤝 Collaborons ! 
 
 <div align="center">
