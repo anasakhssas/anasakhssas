@@ -153,23 +153,6 @@ Je privilégie une approche pragmatique : architecture solide, automatisation, o
 
 ---
 
-## 🚀 Projets Phares
-
-<div align="center">
-
-[![devops_etl](https://github-readme-stats.vercel.app/api/pin/?username=anasakhssas&repo=devops_etl&theme=tokyonight&hide_border=true)](https://github.com/anasakhssas/devops_etl)
-[![local-rag-cli](https://github-readme-stats.vercel.app/api/pin/?username=anasakhssas&repo=local-rag-cli&theme=tokyonight&hide_border=true)](https://github.com/anasakhssas/local-rag-cli)
-
-</div>
-
-| Projet | Description | Technologies | Lien |
-|--------|-------------|--------------|------|
-| 🔄 **devops_etl** | Pipeline ETL automatisé avec pratiques DevOps pour le traitement et la transformation des données | Python, Docker, ETL | [Voir →](https://github.com/anasakhssas/devops_etl) |
-| 🧠 **local-rag-cli** | Assistant RAG local en ligne de commande pour interroger des documents avec des LLMs | Python, RAG, CLI | [Voir →](https://github.com/anasakhssas/local-rag-cli) |
-| 🤖 **ENSAMBot** | Chatbot intelligent pour l'ENSAM utilisant le NLP et l'IA conversationnelle | Python, TypeScript, JavaScript, NLP | *Privé* |
-
----
-
 ## 📈 Ce sur quoi je travaille actuellement
 
 - 🔭 Conception de pipelines **ETL/Data** robustes et prêts pour la production
