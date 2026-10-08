@@ -138,11 +138,6 @@ Je privilégie une approche pragmatique : architecture solide, automatisation, o
   <img src="https://streak-stats.demolab.com?user=anasakhssas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<!-- Graphique d'activité -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anasakhssas&theme=tokyo-night&hide_border=true&area=true&cache_seconds=1800" alt="Activity Graph"/>
-</div>
-
 ---
 
 ## 🤝 Collaborons ! 
